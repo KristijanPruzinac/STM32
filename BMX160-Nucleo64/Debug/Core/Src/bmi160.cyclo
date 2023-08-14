@@ -1,8 +1,0 @@
-../Core/Src/bmi160.c:15:6:i2c_write	1
-../Core/Src/bmi160.c:23:6:i2c_read	1
-../Core/Src/bmi160.c:30:9:BMI160_Check	4
-../Core/Src/bmi160.c:42:6:BMI160_write_uint8	1
-../Core/Src/bmi160.c:47:9:BMI160_read_uint8	1
-../Core/Src/bmi160.c:53:9:BMI160_read_int16	1
-../Core/Src/bmi160.c:64:9:BMI160_read_uint64	1
-../Core/Src/bmi160.c:76:6:BMI160_Init	1

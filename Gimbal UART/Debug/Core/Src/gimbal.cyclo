@@ -1,7 +1,0 @@
-../Core/Src/gimbal.c:15:8:getGimbalIndex	3
-../Core/Src/gimbal.c:25:8:getEmptyGimbalIndex	3
-../Core/Src/gimbal.c:35:10:normalizeValue	5
-../Core/Src/gimbal.c:43:6:initGimbals	2
-../Core/Src/gimbal.c:51:6:registerGimbal	3
-../Core/Src/gimbal.c:65:6:unregisterGimbal	1
-../Core/Src/gimbal.c:73:6:setGimbalPosition	8

@@ -1,4 +1,4 @@
-#BMX160 IMU SHUTTLE BOARD
+# BMX160 IMU
 
 This is example code that reads gyro and accelerometer data from BMX160 shuttle board that uses BMI160 sensor.
 

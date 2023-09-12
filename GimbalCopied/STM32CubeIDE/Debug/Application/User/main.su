@@ -1,0 +1,10 @@
+C:/Users/OrqaPruzinac/.st_workbench/projects/GimbalCopied/Src/main.c:581:13:startMediumFrequencyTask	8	static
+C:/Users/OrqaPruzinac/.st_workbench/projects/GimbalCopied/Src/main.c:637:6:StartUserTask	8	static
+C:/Users/OrqaPruzinac/.st_workbench/projects/GimbalCopied/Src/main.c:181:6:SystemClock_Config	88	static,ignoring_inline_asm
+C:/Users/OrqaPruzinac/.st_workbench/projects/GimbalCopied/Src/main.c:88:5:main	144	static,ignoring_inline_asm
+C:/Users/OrqaPruzinac/.st_workbench/projects/GimbalCopied/Src/main.c:614:6:SetMotorTick	16	static
+C:/Users/OrqaPruzinac/.st_workbench/projects/GimbalCopied/Src/main.c:621:6:MotorStart	16	static
+C:/Users/OrqaPruzinac/.st_workbench/projects/GimbalCopied/Src/main.c:659:6:StartMotorTask	40	static
+C:/Users/OrqaPruzinac/.st_workbench/projects/GimbalCopied/Src/main.c:629:6:MotorStop	8	static
+C:/Users/OrqaPruzinac/.st_workbench/projects/GimbalCopied/Src/main.c:702:6:HAL_TIM_PeriodElapsedCallback	0	static
+C:/Users/OrqaPruzinac/.st_workbench/projects/GimbalCopied/Src/main.c:719:6:Error_Handler	0	static,ignoring_inline_asm

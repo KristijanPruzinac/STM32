@@ -1,0 +1,10 @@
+C:/Users/OrqaPruzinac/.st_workbench/projects/GimbalCopied/Src/main.c:581:13:startMediumFrequencyTask	1
+C:/Users/OrqaPruzinac/.st_workbench/projects/GimbalCopied/Src/main.c:637:6:StartUserTask	1
+C:/Users/OrqaPruzinac/.st_workbench/projects/GimbalCopied/Src/main.c:181:6:SystemClock_Config	3
+C:/Users/OrqaPruzinac/.st_workbench/projects/GimbalCopied/Src/main.c:88:5:main	20
+C:/Users/OrqaPruzinac/.st_workbench/projects/GimbalCopied/Src/main.c:614:6:SetMotorTick	1
+C:/Users/OrqaPruzinac/.st_workbench/projects/GimbalCopied/Src/main.c:621:6:MotorStart	2
+C:/Users/OrqaPruzinac/.st_workbench/projects/GimbalCopied/Src/main.c:659:6:StartMotorTask	6
+C:/Users/OrqaPruzinac/.st_workbench/projects/GimbalCopied/Src/main.c:629:6:MotorStop	2
+C:/Users/OrqaPruzinac/.st_workbench/projects/GimbalCopied/Src/main.c:702:6:HAL_TIM_PeriodElapsedCallback	2
+C:/Users/OrqaPruzinac/.st_workbench/projects/GimbalCopied/Src/main.c:719:6:Error_Handler	1
